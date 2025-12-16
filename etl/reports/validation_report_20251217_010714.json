@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-12-17T01:07:14.413133",
+  "statistics": {
+    "total_records": 3,
+    "valid_records": 3,
+    "invalid_records": 0,
+    "duplicates_removed": 0
+  },
+  "errors": []
+}
